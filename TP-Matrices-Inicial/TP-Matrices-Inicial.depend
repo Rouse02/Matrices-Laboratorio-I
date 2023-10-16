@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682172689 source:c:\users\rocio\onedrive\escritorio\tp-matrices-inicial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
